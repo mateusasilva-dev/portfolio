@@ -1,3 +1,8 @@
+// Vercel Analytics
+import { inject } from "@vercel/analytics";
+
+inject();
+
 // Function to load translations and initialize i18next with geolocation
 async function initTranslations() {
   try {
