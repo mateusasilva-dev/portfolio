@@ -7,11 +7,11 @@
   },
   "introduction": {
     "first": "Hello, I'm Mateus",
-    "second": "Web Developer"
+    "second": "Back-End Developer"
   },
   "about": {
     "aboutMe": "About Me",
-    "description": "I am a web developer passionate about creating creative and functional solutions. I have experience in building responsive websites and applications, always focusing on the best user experience.",
+    "description": "I am a Systems Information student and aspiring back-end developer, passionate about building practical and functional web solutions. I have experience developing personal web projects, such as a photography website, a QR code generator, and a links page. I am always focused on learning, writing clean code, and improving my skills",
     "photoAlt": "Photo of Mateus Silva"
   },
   "projects": {

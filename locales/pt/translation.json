@@ -7,11 +7,11 @@
   },
   "introduction": {
     "first": "Olá, sou Mateus",
-    "second": "Desenvolvedor Web"
+    "second": "Desenvolvedor Back-End"
   },
   "about": {
     "aboutMe": "Sobre Mim",
-    "description": "Sou um desenvolvedor web apaixonado por criar soluções criativas e funcionais. Tenho experiência em projetos de sites e aplicações responsivas, focando sempre na melhor experiência do usuário.",
+    "description": "Sou estudante de Sistemas de Informação e aspirante a desenvolvedor back-end, apaixonado por criar soluções web práticas e funcionais. Tenho experiência no desenvolvimento de projetos web pessoais, como um site de fotografia, um gerador de código QR e uma página de links. Estou sempre focado em aprender, escrever código limpo e aprimorar minhas habilidades",
     "photoAlt": "Foto de Mateus Silva"
   },
   "projects": {
