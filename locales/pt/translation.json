@@ -7,11 +7,11 @@
   },
   "introduction": {
     "first": "Olá, sou Mateus",
-    "second": "Desenvolvedor Back-End"
+    "second": "Estudante de TI | Suporte Técnico | Redes"
   },
   "about": {
     "aboutMe": "Sobre Mim",
-    "description": "Sou estudante de Sistemas de Informação e aspirante a desenvolvedor back-end, apaixonado por criar soluções web práticas e funcionais. Tenho experiência no desenvolvimento de projetos web pessoais, como um site de fotografia, um gerador de código QR e uma página de links. Estou sempre focado em aprender, escrever código limpo e aprimorar minhas habilidades",
+    "description": "Sou estudante de Sistemas de Informação com grande interesse em Tecnologia da Informação, suporte técnico, redes de computadores e fundamentos de programação. Tenho experiência prática em projetos pessoais envolvendo manutenção de computadores, instalação e otimização de sistemas operacionais e configuração de redes, além de fornecer suporte técnico a usuários. Paralelamente aos estudos em TI e infraestrutura, desenvolvo projetos web pessoais utilizando HTML, CSS e JavaScript, aplicando conceitos de programação para construir soluções práticas e fortalecer minha base técnica. Meu foco é o aprendizado contínuo, a resolução de problemas e o crescimento profissional na área de TI.",
     "photoAlt": "Foto de Mateus Silva"
   },
   "projects": {
